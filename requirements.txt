@@ -1,2 +1,5 @@
 jupyterlab
 sklearn
+pandas
+Flask
+requests
